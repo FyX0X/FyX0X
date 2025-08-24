@@ -8,4 +8,3 @@ Checkout my [Portofolio](fyx0x.github.io/portfolio)
 ---
 **Languages:** C++, Python, C#
 **Tools & Frameworks:** OpenGL, DirectXTK, NumPy   
-**Other Interests:** Physics Simulations, Game Development, Machine Learning
